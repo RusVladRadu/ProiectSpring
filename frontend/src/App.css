@@ -1,0 +1,11 @@
+.pagination{
+  position: absolute;
+  bottom: 5%;
+  right: 45%;
+}
+
+.addButton{
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+}
